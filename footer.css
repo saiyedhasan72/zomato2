@@ -1,0 +1,98 @@
+footer{
+    background-color: #f8f8f8;
+    padding: 48px 0 22px;
+}
+
+#fo-container{
+    width: 100%;
+    max-width: 1100px;
+    margin: auto;
+}
+
+#fo-top{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+#fo-logo img{
+    width: 132px;
+}
+
+#fo-select{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+#fo-option{
+    padding: 7px 10px;
+    border-radius: 6px;
+    border: 1px solid #b5b5b5;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    display: flex;
+}
+
+#fo-middle{
+    display: flex;
+    justify-content: space-between;
+}
+
+#fo-links h6{
+    font-size: 14px;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-bottom: 12px;
+}
+
+#fo-links ul{
+    list-style-type: none;
+    font-size: 14px;
+    color: #1c1c1c;
+    line-height: 25px;
+    font-weight: 300;
+}
+
+#social-links{
+    margin-right: 40px;
+}
+
+#social-links h6{
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+#social-icons{
+    margin-bottom: 25px;
+}
+
+#social-icons i{
+    margin-right: 10px;
+}
+
+#down-app{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#down-app img{
+    width: 137px;
+}
+
+hr{
+    margin-top: 10px;
+}
+
+#fo-bottom p{
+    margin-top: 23px;
+    font-size: 13px;
+    color: #4f4f4f;
+    line-height: 20px;
+    font-size: 15px;
+    font-weight: 400;
+}

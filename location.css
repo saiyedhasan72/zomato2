@@ -1,0 +1,87 @@
+#location{
+    margin-bottom: 40px;
+}
+
+#location h1{
+    font-size: 40px;
+    font-weight: 200;
+    margin-bottom: 30px;
+}
+
+#location span{
+    font-weight: 600;
+}
+
+#title{
+    margin-bottom: 60px;
+}
+
+#location #location-title p{
+    font-size: 36px;
+    color: #363636;
+    margin-bottom: 60px;
+}
+
+#location-title p span{
+    font-weight: 800;
+}
+
+#container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#placecontainer i{
+    margin-right: 10px;
+}
+
+#placecontainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 32%;
+    margin-bottom: 15px;
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+    padding: 12px 15px;
+}
+
+#more{
+    border: 1px solid #e8e8e8;
+    padding: 12px 15px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32%;
+    margin-bottom: 15px;
+}
+
+#more i{
+    margin-left: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 3px;
+}
+
+#placename{
+    line-height: 30px;
+}
+
+#placename h5{
+    font-size: 20px;
+    font-weight: 400;
+    color: #1c1c1c;
+    margin-left: 10px;
+}
+
+#placename p{
+    font-size: 15px;
+    font-weight: 400;
+    color: #363636;
+    margin-left: 10px;
+    /* margin-bottom: 10px; */
+} 
